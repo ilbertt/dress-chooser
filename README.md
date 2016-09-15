@@ -1,4 +1,4 @@
-# dress-choser
+# dress-chooser
 The program that, when starter, chooses random dresses from my wardrobe
 
 # how it works
